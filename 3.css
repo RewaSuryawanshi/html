@@ -1,0 +1,13 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: brown;
+    transition-duration: 4000ms;
+    transition-property:border radians;
+
+}
+div:hover{
+    /*transition-duration: 4000ms;*/
+    background-color: sienna;
+
+}
